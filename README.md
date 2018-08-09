@@ -15,3 +15,8 @@ The analysis in R is basically divided into the following steps:
 Any improvements are highly welcome!
 Most importantly, have fun! :)
 
+Authors:
+Patricia Lucía Caruana Blasco
+Antoine Lain
+Jacqueline Neef
+
