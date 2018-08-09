@@ -16,7 +16,5 @@ Any improvements are highly welcome!
 Most importantly, have fun! :)
 
 Authors:
-Patricia Lucía Caruana Blasco
-Antoine Lain
-Jacqueline Neef
+Patricia Lucía Caruana Blasco, Antoine Lain, Jacqueline Neef
 
